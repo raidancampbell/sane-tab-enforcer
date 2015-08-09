@@ -1,8 +1,8 @@
 # sane-tab-enforcer
 helps keep the crazy cooks with too many tabs under control
 
-Idea courtesy of [Steph Hippo](https://github.com/StephHippo).  
-This silly Chrome extension is designed to keep your tab usage under control: 
+Idea courtesy of [Steph Hippo](https://github.com/StephHippo).
+This silly Chrome extension is designed to keep your tab usage under control:
 You're allowed a maximum of 12 tabs open.  Once the 13th tab is opened, all tabs are closed.
 
 ### Usage
