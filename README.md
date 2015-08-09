@@ -12,4 +12,6 @@ are closed.
 - go to `chrome://extensions/` in the address bar
 - enable `developer mode` with the checkbox in the upper right corner
 - click `Load unpacked extension...` at the top of the page
-- direct the file browser to the cloned `sane-tab-enforcer` directory
+- direct the file browser to the cloned `sane-tab-enforcer` ([ZIP][repo-zip]) directory
+
+[repo-zip]: archive/master.zip
