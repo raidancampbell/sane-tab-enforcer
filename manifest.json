@@ -1,0 +1,10 @@
+{
+  "name": "Sane Tab Enforcer",
+  "version": "1.0",
+  "description": "Strictly enforces a sane limit on the number of tabs you can have open.",
+  "permissions": [ "tabs" ],
+  "background": {
+        "scripts": ["eventPage.js"] 
+    },
+  "manifest_version": 2
+}
